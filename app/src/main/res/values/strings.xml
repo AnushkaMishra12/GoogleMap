@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="google_maps_key">AIzaSyAfzU6V4SKq9TPNTWbaku4uoM_6OFUMTu4</string>
+    <string name="search_location">Search location</string>
+    <string name="select_all">Select All</string>
+</resources>
